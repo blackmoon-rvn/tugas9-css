@@ -1,0 +1,19 @@
+body {
+   background-image: url(img/Stupa_Borobudur.jpg);
+}
+
+div .dua {
+   float: right;
+   background-color: white;
+   height: auto;
+   width: 800px;
+   font-size: 18px;
+   z-index: 1;
+   text-align: right;
+}
+
+p {
+   position: static;
+   z-index: 2;
+   text-align: right;
+}
